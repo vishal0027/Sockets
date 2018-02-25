@@ -11,7 +11,7 @@ asks for the List of Client which are connected, after which it opens a direct
 connection which the Client it want to talk. Any Client can open a connection
 with other by putting their port Number and IP address. The basic outlay
 
-![alt text](https://github.com/vishal0027/Sockets/blob/master/reportAssignment2.tiff)
+![alt text](https://github.com/vishal0027/Sockets/blob/master/reportAssignment2.jpg)
 
 # Usage
 
